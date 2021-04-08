@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DataUnicorn, but my real name is Celestine and I live in Cape Town, South Africa. You can learn more about me at www.celestiarax.com. 
+- 👋 Hi, I’m @DataUnicorn, but my real name is Celestine and I live in Cape Town, South Africa. You can learn more about me at www.celestiarax.com. Alternatively, you can say hi over on LinkedIn, https://www.linkedin.com/in/celestine-weber-63b84883/.
 - 👀 I’m interested in data analytics, data science, exploring datasets and attempting to uncover meaningful solutions to everyday and extraordinary problems within the data. 
 - 🌱 I’m currently learning how to build web scrapers from sratch and I'm always trying to polish my Python skills even further. 
 - 💞️ I'm always interested in collaborating, on any kind of data-related project.
